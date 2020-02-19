@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StormEnergyApp</string>
+    <string name="unconnected">Vous n\'êtes pas connecté</string>
+    <string name="error">Erreur</string>
 </resources>
